@@ -1,9 +1,9 @@
 
 - 👋 Hi
-  I'm amirHosein Mohammadi. A Python and Java developer who enjoys coding and making the dream. Actually right now I'm a master of science student in Artificial Intelligence.
-Also, I really love to play with data in Apache Cassandra. So I'm a data engineer to satisfy myself😅
-- 📫 Do you want to contact me? You can mail to 98.amirhosein@gmail.com righ now😁 
-- 👀 Focusing on BERT and NLP models 
+  I'm amirHosein Mohammadi. A Python and Java developer who enjoys coding and making dreams. Actually, right now I'm a Ph.D. candidate at Utrecht University.
+Additionally, I thoroughly enjoy working with data in Apache Cassandra. So I'm a data engineer to satisfy myself😅
+- 📫 Do you want to contact me? You can mail to a.mohammadi@uu.nl right now😁 
+- 👀 Focusing on Impossible Languages and LLMs 
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=blue)
